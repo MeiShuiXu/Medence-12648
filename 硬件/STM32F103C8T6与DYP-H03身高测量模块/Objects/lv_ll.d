@@ -1,0 +1,11 @@
+.\objects\lv_ll.o: LVGL\src\misc\lv_ll.c
+.\objects\lv_ll.o: LVGL\src\misc\lv_ll.h
+.\objects\lv_ll.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\lv_ll.o: D:\MDK\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\lv_ll.o: D:\MDK\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\lv_ll.o: LVGL\src\misc\lv_mem.h
+.\objects\lv_ll.o: LVGL\src\misc\../lv_conf_internal.h
+.\objects\lv_ll.o: LVGL\src\misc\../lv_conf_kconfig.h
+.\objects\lv_ll.o: .\LVGL\examples\porting\../../lv_conf.h
+.\objects\lv_ll.o: D:\MDK\ARM\ARMCC\Bin\..\include\string.h
+.\objects\lv_ll.o: LVGL\src\misc\lv_types.h
